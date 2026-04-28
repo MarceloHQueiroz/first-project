@@ -1,0 +1,2 @@
+# first-project
+Simplified_Inventory_Management_System
