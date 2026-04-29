@@ -44,8 +44,11 @@ This system simulates a simple product management process:
 ## Project Structure
 src/
 ├── model/ → Main classes (Product)
+
 ├── service/ → Business rules
+
 ├── repository/ → In-memory storage (ArrayList)
+
 ├── main/ → Main class (Main)
 -------
 
